@@ -1,6 +1,6 @@
 # gridsculpt
 
-Designed to be used in notebooks!
+Designed to be used in notebooks.
 
 ## How to use
 
