@@ -1,23 +1,23 @@
 Installation
 ============
 
-**my-package** supports Python >= 3.8.
+**gridsculpt** supports Python >= 3.8.
 
 ## Installing with `pip`
 
-**my-package** is available [on PyPI](https://pypi.org/project/my-package/). Just run
+**gridsculpt** is available [on PyPI](https://pypi.org/project/gridsculpt/). Just run
 
 ```bash
-pip install my-package
+pip install gridsculpt
 ```
 
 ## Installing from source
 
-To install **my-package** from source, first clone [the repository](https://github.com/allenai/python-package-template):
+To install **gridsculpt** from source, first clone [the repository](https://github.com/ro-mish/GridSculpt):
 
 ```bash
-git clone https://github.com/allenai/python-package-template.git
-cd python-package-template
+git clone https://github.com/ro-mish/GridSculpt.git
+cd GridSculpt
 ```
 
 Then run
