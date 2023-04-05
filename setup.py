@@ -25,7 +25,7 @@ setup(
     long_description=open("README.md").read(),
     long_description_content_type="text/markdown",
     classifiers=[
-        "Intended Audience :: Science/Research",
+        "Intended Audience :: Data Science",
         "Development Status :: 3 - Alpha",
         "License :: OSI Approved :: Apache Software License",
         "Programming Language :: Python :: 3",
@@ -33,8 +33,8 @@ setup(
     ],
     keywords="",
     url="https://github.com/ro-mish/GridSculpt",
-    author="Allen Institute for Artificial Intelligence",
-    author_email="contact@allenai.org",
+    author="Rohit Mishra",
+    author_email="rohitnmishra2@gmail.com",
     license="Apache",
     packages=find_packages(
         exclude=["*.tests", "*.tests.*", "tests.*", "tests"],
