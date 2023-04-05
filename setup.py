@@ -25,7 +25,7 @@ setup(
     long_description=open("README.md").read(),
     long_description_content_type="text/markdown",
     classifiers=[
-        "Intended Audience :: Data Science",
+        "Intended Audience :: Science/Research",
         "Development Status :: 3 - Alpha",
         "License :: OSI Approved :: Apache Software License",
         "Programming Language :: Python :: 3",
