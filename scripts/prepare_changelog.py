@@ -1,7 +1,7 @@
 from datetime import datetime
 from pathlib import Path
 
-from gridsculpt.version import VERSION
+from gridsculpt import VERSION
 
 
 def main():
